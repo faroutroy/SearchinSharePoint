@@ -34,6 +34,6 @@
     ]
   },
   "paths": {
-    "zippedPackage": "solution/sales-funnel-search.sppkg"
+    "zippedPackage": "solution/SearchslsWebPart.sppkg"
   }
 }
