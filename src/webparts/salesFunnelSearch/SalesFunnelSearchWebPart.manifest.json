@@ -12,7 +12,7 @@
     {
       "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
       "group": { "default": "Other" },
-      "title": { "default": "Sales Funnel Search" },
+      "title": { "default": "Sales Funnel" },
       "description": { "default": "Search documents and list items across SharePoint" },
       "officeFabricIconFontName": "Search",
       "properties": {
