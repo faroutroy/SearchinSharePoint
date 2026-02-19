@@ -252,7 +252,7 @@ export class SalesFunnelSearchService {
     const currentSiteUrl = this.context.pageContext.site.absoluteUrl;
 
     // If the list URL starts with the current site URL, use it directly
-    if (listUrl.startsWith(currentSiteUrl)) {
+    if (listUrl.indexOf(currentSiteUrl) === 0) {
       return currentSiteUrl;
     }
 
