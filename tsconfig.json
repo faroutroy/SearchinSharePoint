@@ -18,12 +18,15 @@
       "./node_modules/@types",
       "./node_modules/@microsoft"
     ],
-    "types": [],
+    "types": [
+      "node"
+    ],
     "lib": [
       "es5",
       "dom",
       "es2015.collection",
-      "es2015.promise"
+      "es2015.promise",
+      "es2015.core"
     ]
   },
   "include": [
